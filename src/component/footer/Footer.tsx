@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import{ FC } from "react";
 import "./Footer.scss";
 import footerImg from "../../assets/image/footer/Rectangle 2.svg";
 const Footer: FC = () => {

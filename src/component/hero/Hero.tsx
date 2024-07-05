@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import{ FC } from "react";
 import "./Hero.scss";
 import heroImg from "../../assets/image/hero/PORTEN.png";
 const Hero: FC = () => {

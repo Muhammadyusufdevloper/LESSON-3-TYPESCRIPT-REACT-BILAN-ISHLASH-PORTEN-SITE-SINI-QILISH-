@@ -1,4 +1,4 @@
-import React, { FC, useState } from "react";
+import{ FC, useState } from "react";
 import topPhone from "../../assets/image/header/top-header__phone.svg";
 import siteLogo from "../../assets/image/header/nav-logo.svg";
 import chiqish from "../../assets/image/header/chiqish.svg";

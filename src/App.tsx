@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import{ FC } from "react";
 import Header from "./component/header/Header";
 import Hero from "./component/hero/Hero";
 import Footer from "./component/footer/Footer";

@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useState } from "react";
+import{ FC, useEffect, useState } from "react";
 import "./Catalog.scss";
 import axios from "axios";
 interface ProductSchema {
